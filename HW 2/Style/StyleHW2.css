@@ -1,0 +1,97 @@
+.a4-container {
+    width: 210mm;
+    height: 297mm;
+}
+
+h1 {
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial;
+}
+
+h2 {
+    text-align: center;
+    font-size: medium;
+    font-family: Arial;
+    color: black;
+}
+
+h3 {
+    text-align: left;
+    font-size: small;
+    font-family: Arial;
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.block1 {
+    background-color: rgb(225, 120, 78); 
+    border: 5px solid rgb(224, 57, 57); 
+    padding: 10px 10px 10px 10px;
+    margin: 0px 5px 5px 0px; 
+    text-align: left;
+}
+
+.block2 {
+    background-color: rgb(95, 173, 237); 
+    border: 5px solid rgb(55, 98, 215); 
+    margin: 0px 5px 5px 0px;
+    padding: 10px 10px 10px 10px;
+    text-align: left;
+}
+
+.block3 {
+    background-color: beige; 
+    border: 5px solid orange; 
+    margin: 0px 5px 5px 0px;
+    padding: 10px 10px 10px 10px;
+    text-align: left;
+}
+ 
+.block4 {
+    background-color: white; 
+    border: 2px solid black; 
+    margin: 0px -5px 0px -8px;
+    padding: 10px 0px 0px 0px;
+    text-align: center;
+    height: 40px;
+}
+
+.block1 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 30%;
+    text-align: left;
+}
+
+.block2 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 30%;
+    text-align: left;
+}
+
+.block3 img {
+    width: 200px;
+    height: 150px;
+    border-radius: 30%;
+    text-align: left;
+}
+
+.block4 img {
+    width: 30px;
+    height: 30px;
+    border-radius: 30%;
+    text-align: center;
+}
+
+p {
+    font-family: Arial;
+    font-size: small;
+    font-style: italic;
+    font-weight: bold;
+    text-align: justify;
+    color: darkred;
+    font: right;
+}
